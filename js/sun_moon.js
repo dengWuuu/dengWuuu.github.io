@@ -1,11 +1,11 @@
 function switchNightMode() {
   document.querySelector('body').insertAdjacentHTML('beforeend', '<div class="Cuteen_DarkSky"><div class="Cuteen_DarkPlanet"></div></div>'),
-    setTimeout(function() {
+    setTimeout(function () {
       document.querySelector('body').classList.contains('DarkMode') ? (document.querySelector('body').classList.remove('DarkMode'), localStorage.setItem('isDark', '0'), document.getElementById('modeicon').setAttribute('xlink:href', '#icon-moon')) : (document.querySelector('body').classList.add('DarkMode'), localStorage.setItem('isDark', '1'), document.getElementById('modeicon').setAttribute('xlink:href', '#icon-sun')),
-        setTimeout(function() {
+        setTimeout(function () {
           document.getElementsByClassName('Cuteen_DarkSky')[0].style.transition = 'opacity 3s';
           document.getElementsByClassName('Cuteen_DarkSky')[0].style.opacity = '0';
-          setTimeout(function() {
+          setTimeout(function () {
             document.getElementsByClassName('Cuteen_DarkSky')[0].remove();
           }, 1e3);
         }, 2e3)
