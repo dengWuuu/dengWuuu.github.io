@@ -221,10 +221,11 @@ aside:
   card_announcement:
     enable: true
     content:
-      <b><font color="#e66b6d">双</font> <font color="#e66d98">手</font> <font color="#e66cc6">合</font> <font color="#cc6de6">十</font> <font color="#9770e6">成</font> <font color="#6d93e6">为</font> <font color="#6fcde6">自</font> <font color="#72e6b6">己</font> <font color="#72e689">的</font> <font color="#99e670">神</font>, <font color="#cde670">自</font> <font color="#e6df72">己</font> <font color="#e6c073">所</font> <font color="#e6a271">信</font> <font color="#e6796f">念</font> <font color="#e65454">的</font> <font color="#e63333">即</font> <font color="#e62c2c">是</font> <font color="#e60101">信</font> <font color="#e60101">仰</font></b>
-      <p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" width="50" alt="mao"></p>
+      <b><font color="#e66b6d">雄</font> <font color="#e66d98">关</font> <font color="#e66cc6">漫</font> <font color="#cc6de6">道</font> <font color="#9770e6">真</font> <font color="#6d93e6">如</font> <font color="#6fcde6">铁</font></b>
+      <p align="center"><img src="https://github.com/dengWuuu/dengWuuu.github.io/blob/main/gif/mao.gif" width="50" alt="mao"></p>
       <p align="center">微信号：wdw330327</p>
       <p align="center">QQ号：1076766987</p>
+      <p align="center">Github：https://github.com/dengWuuu</p>
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
