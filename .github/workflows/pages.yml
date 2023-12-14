@@ -14,8 +14,7 @@ jobs:
         with:
           token: ${{ secrets.GT_TOKEN }}
           # If your repository depends on submodule, please see: https://github.com/actions/checkout
-          repository: themes/butterfly
-          path: themes/butterfly
+          submodules: recursive
       - name: Use Node.js 16.14.2
         uses: actions/setup-node@v2
         with:
