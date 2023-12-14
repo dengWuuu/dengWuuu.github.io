@@ -10,7 +10,15 @@ author: 悟Wuuuu
 language: en
 
 medium_zoom: true
-preloader: true
+# 加载动画 Loading Animation
+preloader:
+  enable: true
+  # source
+  # 1. fullpage-loading
+  # 2. pace (progress bar)
+  source: 1
+  # pace theme (see https://codebyzach.github.io/pace/)
+  pace_css_url: https://github.com/dengWuuu/dengWuuu.github.io/blob/main/source/css/center-atom.css
 
 # Snackbar 弹窗
 # https://github.com/polonel/SnackBar
@@ -25,7 +33,7 @@ snackbar:
 footer_bg: true
 chat_btn: true
 
-background: https://github.com/dengWuuu/dengWuuu.github.io/blob/main/img/background.jpg
+background: https://github.com/dengWuuu/dengWuuu.github.io/blob/main/source/img/background.jpg
 
 index_img: /img/background.jpg
 avatar:
