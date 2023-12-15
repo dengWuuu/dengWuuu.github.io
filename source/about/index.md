@@ -10,9 +10,7 @@ type: "about"
 - 🌱 I’m currently learning java and go
 - 📫 How to reach me: dengwu.wu@foxmail.com
 
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=dengWuuu)
-![time](https://github-readme-stats.vercel.app/api/wakatime?username=wuuuuuu)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dengWuuu)](https://github.com/anuraghazra/github-readme-stats)  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wuuuuuu)](https://github.com/anuraghazra/github-readme-stats)
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 👯 I’m looking to collaborate nothing
@@ -44,6 +42,4 @@ type: "about"
 - 2023年暑期实习 -> @bytedance
 - 2023年秋招拿到多家大厂offer：@Tencent(IEG) | @KuaiShou | @Alibaba(淘天) | @AntGroup | 且最后打算去蚂蚁工作
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dengWuuu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)    
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dengWuuu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
