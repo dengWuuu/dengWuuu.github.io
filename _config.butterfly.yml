@@ -376,3 +376,8 @@ related_post:
   enable: true
   limit: 6 # 显示推荐文章数目
   date_type: created # or created or updated 文章日期显示创建日或者更新日
+
+# 插入图片设置
+marked:
+  prependRoot: true
+  postAsset: true
