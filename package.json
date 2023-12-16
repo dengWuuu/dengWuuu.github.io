@@ -1,6 +1,7 @@
 {
   "name": "hexo-site",
   "version": "0.0.0",
+  "description": "阿悟的小破博客",
   "private": true,
   "scripts": {
     "build": "hexo generate",

@@ -5,11 +5,10 @@
 # Site
 title: 阿悟的小破栈
 description: 阿悟的小破博客
-# keywords: 体育特长生,沉淀,大厂保洁,Java
+keywords: 体育特长生,沉淀,大厂保洁,Java,backend,后端,大厂程序员
 author: 悟Wuuuu
 language: en
 favicon: /img/category.jpg
-
 medium_zoom: true
 # 加载动画 Loading Animation
 preloader:
@@ -91,8 +90,8 @@ abbrlink:
   rep: hex     #进制： dec(default) and hex
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_index: true # Set false to remove trailing 'index.html' from permalinks
+  trailing_html: true # Set false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
@@ -129,6 +128,26 @@ prismjs:
   preprocess: true
   line_number: true
   tab_replace: ''
+
+post_meta:
+  page:
+    date_type: both # created or updated or both 主页文章日期是创建日或者更新日或都显示
+    date_format: relative # date/relative 显示日期还是相对日期
+    categories: true # true or false 主页是否显示分类
+    tags: true # true or false 主页是否显示标签
+    label: true # true or false 显示描述性文字
+  post:
+    date_type: both # created or updated or both 文章页日期是创建日或者更新日或都显示
+    date_format: relative # date/relative 显示日期还是相对日期
+    categories: true # true or false 文章页是否显示分类
+    tags: true # true or false 文章页是否显示标签
+    label: true # true or false 显示描述性文字
+
+
+作者: Jerry
+連結: https://butterfly.js.org/posts/4aa8abbe/#%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2
+來源: Butterfly
+  著作權歸作者所有。商業轉載請聯繫作者獲得授權，非商業轉載請註明出處。
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
