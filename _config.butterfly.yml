@@ -332,6 +332,7 @@ wordcount:
 inject:
   head:
     - <link rel="stylesheet" href="/css/universe.css">
+    - <title>阿悟的小破栈 - 阿悟的小破博客</title>
   bottom:
     - <canvas id="universe"></canvas>
     - <script defer src="/js/universe.js"></script>
