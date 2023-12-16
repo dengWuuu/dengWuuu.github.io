@@ -1,8 +1,16 @@
 {
   "name": "hexo-site",
   "version": "0.0.0",
-  "description": "阿悟的小破博客",
+  "description": "Wu's blog",
   "private": true,
+  "keywords": [
+    "backend",
+    "大厂程序员",
+    "Java",
+    "悟",
+    "体育生",
+    "沉淀"
+  ],
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
