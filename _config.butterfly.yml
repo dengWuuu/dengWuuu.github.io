@@ -4,12 +4,23 @@
 
 # Site
 title: 阿悟的小破栈
-description: Wu's blog
+description: 阿悟的小破博客
 keywords: 体育特长生,沉淀,大厂保洁,Java,backend,后端,大厂程序员
 author: 悟Wuuuu
 language: en
 favicon: /img/category.jpg
 medium_zoom: true
+
+subtitle:
+  enable: true
+  # Typewriter Effect (打字效果)
+  effect: true
+  # loop (循環打字)
+  loop: true
+  sub:
+    - 雄关漫道真如铁
+    - 而今迈步从头越
+
 # 加载动画 Loading Animation
 preloader:
   enable: true
@@ -221,16 +232,6 @@ fireworks:
   enable: true
   zIndex: 9999 # -1 or 9999
   mobile: false
-
-subtitle:
-  enable: true
-  # Typewriter Effect (打字效果)
-  effect: true
-  # loop (循環打字)
-  loop: true
-  sub:
-    - 雄关漫道真如铁
-    - 而今迈步从头越
 
 aside:
   enable: true
