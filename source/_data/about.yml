@@ -1,0 +1,104 @@
+- class_name: 关于页
+  subtitle: 超兽战士的异能量永远不会超过他的信念！✨
+  avatarImg: /img/wdw.jpg
+  avatarSkills:
+    left:
+      - 🤖️ 会写Java & Golang & Python
+      - 🔍 写 BUG 大能手
+      - 🏠 改 BUG 小能手
+      - 🔨 后端开发人员
+    right:
+      - 专修交互与设计 🤝
+      - 体育生沉淀中 🏃
+      - 团队小组发动机 🧱
+      - 壮汉人狠话不多 💢
+  name: 吴登悟
+  description: 是一名 后端开发工程师、大厂搬砖者、学生、独立开发者、Java、Golang、Python
+  aboutsiteTips:
+    tips: 理性西格玛男人
+    title1: 热爱算法、网瘾少年
+    title2: fuck the life
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 旅游
+  helloAbout: Hello world!
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 不积跬步无以至千里
+    list:
+      - desc: SCUT | 软件工程专业
+        color: "#357ef5"
+      - desc: 字节跳动-今日头条 | 后端开发实习生
+        color: "#357ef5"
+      - desc: 蚂蚁金服-财富技术 | 后端开发工程师
+        color: "#357ef5"
+    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+  sta tistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国，广州市
+    background: https://bu.dusays.com/2023/07/05/64a4c61cb20ef.jpg
+    backgroundDark: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2002
+    selfInfoTips2: 华南理工大学
+    selfInfoContent2: 软件工程
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 大四学生-蚂蚁金服后端预入职人员👨‍🎓
+  personalities:
+    author_name: 总经理
+    personality_type: ESTJ-A
+    photo_url: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
+    personality_img: /img/estj.png
+    name_url: https://www.16personalities.com/ch/estj-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 超兽战士的异能量
+    maxim_bottom: 永远不会超过他的信念！✨
+  buff:
+    buff_tips: 特长
+    buff_top: 逻辑满分、理性思维
+    buff_bottom: 西格玛男人
+  game:
+    game_tips: 爱好游戏
+    game_title: Steam来看我
+    game_uid: "STEAM_ID: 76561199058595818"
+    game_bg: /img/Steam-Simbolo.jpg
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: 死神
+        href: https://manga.bilibili.com/detail/mc24726?from=websearch&spm_id_from=333.337.0.0
+        cover: /img/blench.png
+      - name: 死神
+        href: https://manga.bilibili.com/detail/mc24726?from=websearch&spm_id_from=333.337.0.0
+        cover: /img/blench.png
+      - name: 死神
+        href: https://manga.bilibili.com/detail/mc24726?from=websearch&spm_id_from=333.337.0.0
+        cover: /img/blench.png
+      - name: 死神
+        href: https://manga.bilibili.com/detail/mc24726?from=websearch&spm_id_from=333.337.0.0
+        cover: /img/blench.png
+      - name: 死神
+        href: https://manga.bilibili.com/detail/mc24726?from=websearch&spm_id_from=333.337.0.0
+        cover: /img/blench.png
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 王嘉尔狂热爱好者
+    music_bg: /img/Jackson.jpg
+    music_link: /music

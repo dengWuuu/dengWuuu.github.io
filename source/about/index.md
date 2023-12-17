@@ -1,6 +1,10 @@
 ---
-title: 关于作者
-date: 2022-03-11 13:01:21
+title: 关于
+date: 2022-03-11 15:57:51
+aside: false
+top_img: /img/wdw.jpg
+background: "#f8f9fe"
+comments: false
 type: "about"
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AC4F7&random=false&width=490&lines=Hi%EF%BC%81+this+is+Wu+Dengwu's+github+warehouse)](https://git.io/typing-svg)
