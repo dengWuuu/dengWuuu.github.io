@@ -766,9 +766,9 @@ aside:
       <p align="center">微信号：wdw330327</p>
       <p align="center">QQ号：1076766987</p>
     card_weixin:
-      enable: false
-  #      face: https://bu.dusays.com/2023/01/13/63c02edf44033.png
-  #      backFace: https://bu.dusays.com/2023/05/13/645fa415e8694.png
+      enable: true
+      face: /img/preview.gif
+      backFace: /img/background.jpg
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
