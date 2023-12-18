@@ -37,14 +37,14 @@ type: "about"
 <tr><td>
 
 ### 🏢 Work Experience
-<img align="right" width="88" src="/img/antgroup.png" />
+<img align="right" width="88" src="https://github.com/dengWuuu/dengWuuu/blob/main/img/antgroup.png" />
 
 - [蚂蚁集团 | 蚂蚁财富技术部](https://www.tuhuimap.com/) &emsp; 📌 2024-07-01(未来-预计) —— Now
 
     - 工作岗位：后端开发工程师
     - 工作内容：基金交易
 
-<img align="right" width="88" src="/img/bytedance.png" />
+<img align="right" width="88" src="https://github.com/dengWuuu/dengWuuu/blob/main/img/bytedance.png" />
 
 - [字节跳动 | 今日头条平台业务](https://www.tuhuimap.com/) &emsp; 📌 2023-04-07 —— 2023-10-27
 
