@@ -38,14 +38,14 @@ type: "about"
 <tr><td>
 
 ### 🏢 Work Experience
-<img align="right" width="88" src="https://github.com/dengWuuu/dengWuuu/blob/main/img/antgroup.png" />
+<img align="right" width="88" src="/img/antgroup.png" />
 
 - [蚂蚁集团 | 蚂蚁财富技术部](https://www.tuhuimap.com/) &emsp; 📌 2024-07-01(未来-预计) —— Now
 
     - 工作岗位：后端开发工程师
     - 工作内容：基金交易
 
-<img align="right" width="88" src="https://github.com/dengWuuu/dengWuuu/blob/main/img/bytedance.png" />
+<img align="right" width="88" src="/img/bytedance.png" />
 
 - [字节跳动 | 今日头条平台业务](https://www.tuhuimap.com/) &emsp; 📌 2023-04-07 —— 2023-10-27
 
@@ -66,13 +66,13 @@ type: "about"
 </table>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://github.com/dengWuuu/dengWuuu/blob/main/img/left.png" />
+<img align="left" width="150" src="/img/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dengWuuu&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dengWuuu&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dengWuuu&theme=default&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://github.com/dengWuuu/dengWuuu/blob/main/img/right.png" />
+<img align="right" width="150"  src="/img/right.png" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
@@ -87,12 +87,12 @@ type: "about"
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://github.com/dengWuuu/dengWuuu/blob/main/img/hr.gif" />
+<img width="200%" src="/img/hr.gif" />
 
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://github.com/dengWuuu/dengWuuu/blob/main/img/mb.png" width="250" height="250" />
+<img src="/img/mb.png" width="250" height="250" />
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
