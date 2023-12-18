@@ -45,8 +45,8 @@
   map:
     title: 我现在住在
     StrengthenTitle: 中国，广州市
-    background: https://bu.dusays.com/2023/07/05/64a4c61cb20ef.jpg
-    backgroundDark: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
+    background: /img/guangzhou.png
+    backgroundDark: /img/guangzhou.png
   selfInfo:
     selfInfoTips1: 生于
     selfInfoContentYear: 2002
@@ -57,7 +57,7 @@
   personalities:
     author_name: 总经理
     personality_type: ESTJ-A
-    photo_url: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
+    photo_url: /img/changbaishan.jpg
     personality_img: /img/estj.png
     name_url: https://www.16personalities.com/ch/estj-%E4%BA%BA%E6%A0%BC
   maxim:
