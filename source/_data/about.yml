@@ -31,11 +31,11 @@
     tips: 生涯
     title: 不积跬步无以至千里
     list:
-      - desc: SCUT | 软件工程专业
+      - desc: SCUT | 软件工程专业               2020-09 - 2024-06
         color: "#357ef5"
-      - desc: 字节跳动-今日头条 | 后端开发实习生
+      - desc: 字节跳动-今日头条 | 后端开发实习生   2023-04 - 2023-10
         color: "#357ef5"
-      - desc: 蚂蚁金服-财富技术 | 后端开发工程师
+      - desc: 蚂蚁金服-财富技术 | 后端开发工程师   2023-12 - now
         color: "#357ef5"
     img: /img/timeline.png
   statistic:
