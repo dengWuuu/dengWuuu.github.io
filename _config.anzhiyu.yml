@@ -147,11 +147,10 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: /img/background.jpg # "background: url(https://github.com/dengWuuu/dengWuuu.github.io/blob/main/source/img/background.jpg) top / cover no-repeat"
-background: url(https://github.com/dengWuuu/dengWuuu.github.io/blob/main/source/img/background.jpg) top / cover no-repeat
+index_img: "background: url('/img/vsgif_com_movie-sonic-the-hedgehog-running-with-lightning_.3549753.gif') top / cover no-repeat"
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: /img/background.jpg
+default_top_img: "background: url('/img/background.jpg') top / cover no-repeat"
 
 cover:
   # display the cover or not (是否显示文章封面)
@@ -611,7 +610,7 @@ category_ui: # 留空或 index
 tag_ui: # 留空或 index
 
 # Footer Background
-footer_bg: https://github.com/dengWuuu/dengWuuu.github.io/blob/main/source/img/background.jpg
+footer_bg: "background: url('/img/background.jpg')"
 
 # the position of bottom right button/default unit: px (右下角按钮距离底部的距离/默认单位为px)
 rightside-bottom: 100px
@@ -761,15 +760,15 @@ aside:
 
   card_announcement:
     enable: true
-    card_weixin:
-      enable: false
-      face: https://github.com/dengWuuu/dengWuuu.github.io/blob/main/source/img/background.jpg
-      backFace: https://github.com/dengWuuu/dengWuuu.github.io/blob/main/source/img/background.jpg
     content:
       欢迎来到悟的小破栈~
       <p align="center"><b><font color="#e66b6d">雄</font><font color="#e66d98">关</font><font color="#e66cc6">漫</font><font color="#cc6de6">道</font><font color="#9770e6">真</font><font color="#6d93e6">如</font><font color="#6fcde6">铁</font></b></p>
       <p align="center">微信号：wdw330327</p>
       <p align="center">QQ号：1076766987</p>
+  card_weixin:
+    enable: true
+    face: /img/preview.gif
+    backFace: /img/background.jpg
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
