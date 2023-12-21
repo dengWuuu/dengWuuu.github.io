@@ -7,6 +7,7 @@ background: "#f8f9fe"
 comments: true
 type: "about"
 ---
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AC4F7&random=false&width=490&lines=Hi%EF%BC%81+this+is+Wu+Dengwu's+github+warehouse)](https://git.io/typing-svg)
 
 <table>
@@ -35,6 +36,16 @@ type: "about"
   </a>
 </p>
 
+<p align="center">
+  <a href="https://codeforces.com/profile/Wu_oooo">
+    <img src="https://img.shields.io/badge/Wu_oooo-Codeforces-blue?style=for-the-badge&logo=codeforces">
+  </a>
+
+  <a href="https://leetcode.cn/u/oyx-x/">
+    <img src="https://img.shields.io/badge/%E6%82%9F%F0%9F%8C%B8-Leetcode-green?style=for-the-badge&logo=leetcode">
+  </a>
+</p>
+
 <tr><td>
 
 ### 🏢 Work Experience
@@ -42,15 +53,15 @@ type: "about"
 
 - [蚂蚁集团 | 蚂蚁财富技术部](https://www.tuhuimap.com/) &emsp; 📌 2024-07-01(未来-预计) —— Now
 
-    - 工作岗位：后端开发工程师
-    - 工作内容：基金交易
+  - 工作岗位：后端开发工程师
+  - 工作内容：基金交易
 
 <img align="right" width="88" src="/img/bytedance.png" />
 
 - [字节跳动 | 今日头条平台业务](https://www.tuhuimap.com/) &emsp; 📌 2023-04-07 —— 2023-10-27
 
-    - 工作岗位：后端开发工程师
-    - 工作内容：悟空浏览器、站外优化、影视资源实体挖掘等
+  - 工作岗位：后端开发工程师
+  - 工作内容：悟空浏览器、站外优化、影视资源实体挖掘等
 
 </td></tr>
 
@@ -67,12 +78,13 @@ type: "about"
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img align="left" width="150" src="/img/left.png" />
+<img align="right" width="150"  src="/img/right.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dengWuuu&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dengWuuu&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dengWuuu&theme=default&hide_border=true" />
+  <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=dengWuuu&theme=default&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="/img/right.png" />
+
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
@@ -104,7 +116,8 @@ type: "about"
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dengWuuu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dengWuuu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="/img/hr.gif" />
+
 <!-- WakaTime -->
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wuuuuuu" /></div>
-
-
