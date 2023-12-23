@@ -457,10 +457,10 @@ footer:
     linkList:
       - link: https://github.com/dengWuuu/dengWuuu.github.io
         text: 我的Github仓库
-      # - link: https://image.anheyu.com
-      #   text: 图床
-      # - link: https://beian.miit.gov.cn/
-      #   text: 湘ICP备-xxxxxxx号
+      - link: https://leetcode.cn/u/oyx-x/
+        text: Leetcode
+      - link: https://codeforces.com/profile/Wu_oooo
+        text: Codeforces
     subTitle:
       enable: true
       # Typewriter Effect (打字效果)
