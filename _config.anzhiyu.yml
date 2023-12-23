@@ -440,14 +440,6 @@ footer:
             link: https://www.foreverblog.cn/
           - title: 开往
             link: https://github.com/travellings-link/travellings
-      - title: 主题
-        links:
-          - title: 文档
-            link: /docs/
-          - title: 源码
-            link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
-          - title: 更新日志
-            link: /update/
       - title: 导航
         links:
           - title: 即刻短文
@@ -468,7 +460,7 @@ footer:
     enable: true
     authorLink: /
     cc:
-      enable: false
+      enable: true
       link: /copyright
     linkList:
       - link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
